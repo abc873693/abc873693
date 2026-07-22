@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/abc873693/abc873693/master/profile-summary-card-output/transparent/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/abc873693/abc873693/master/profile-summary-card-output/transparent/4-productive-time.svg)
+```
+
+    
